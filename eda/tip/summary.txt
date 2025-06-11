@@ -1,0 +1,42 @@
+1. General Statistics
+
+Average tip amount: $2.99
+
+Average total bill: $19.79
+
+Average tip percentage: 15.16%
+
+2. Gender Breakdown
+
+Male customers: 157
+
+Female customers: 87
+
+3. Day & Time Analysis
+
+Highest total tips were collected on Saturday: $260.40
+
+Dinner time had significantly higher total tips than lunch:
+
+Dinner: $546.07
+
+Lunch: (calculated difference not provided)
+
+Total weekend tips (Saturday + Sunday): $507.79
+
+Total weekday tips (Thursday + Friday): $223.79
+
+Saturday had the highest customer count with 87 entries
+
+4. Gender-Based Tipping Behavior
+
+Males tipped more on average: $3.09
+
+Females tipped more frequently during dinner (52 entries noted)
+
+5. Additional Insights
+
+There is a clear positive correlation between group size and tip amount, approximately following a linear trend.
+
+Smoking status (smoker vs non-smoker) did not significantly affect tipping behavior.
+
